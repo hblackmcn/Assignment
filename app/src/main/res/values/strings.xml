@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <string name="menu_channels">Channels</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_tv_guid">TV Guid</string>
+
+    <string name="channel_loading">Loading Channels</string>
+    <string name="channels">Channels</string>
+    <string name="channels_sort">Sort</string>
+
+    <string name="menu_option_sortby_name">Sort By Channel Name</string>
+    <string name="menu_option_sortby_no">Sort By Channel No</string>
+
+    <string name="button_view_all_channels">View All Channels</string>
+
+</resources>

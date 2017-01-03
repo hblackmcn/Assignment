@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">@color/colorAstroLight</item>
+        <item name="colorPrimaryDark">@color/colorAstro</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textColor">@color/colorAstro</item>
+        <item name="android:windowBackground">@color/white_opaque</item>
+        <item name="android:buttonStyle">@style/CKButton</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="CKButton" parent="android:style/Widget.Button">
+        <item name="android:background">@drawable/custome_button</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+
+
+    <!--<style name="AppTheme.NavMenu" parent="Theme.AppCompat">-->
+        <!--<item name="android:textColorPrimary">@color/drawer_menu_text_color</item>-->
+        <!--<item name="android:windowBackground">@color/white_opaque</item>-->
+
+    <!--</style>-->
+
+
+</resources>

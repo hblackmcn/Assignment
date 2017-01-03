@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265835520096",
+    "project_id": "astroassessment"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265835520096:android:a4f2df03f5de4848",
+        "android_client_info": {
+          "package_name": "my.com.astro.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265835520096-hh7f6vsshit59sf7l2qpsh4f1d7cbbgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.astro.sample",
+            "certificate_hash": "C3EA1E176CDECA4F29590D6C37675D60C693F28D"
+          }
+        },
+        {
+          "client_id": "265835520096-aupm34srm7fvp5anrrfigta4ch5mt7m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAci3PVNmoLFRRD4_n-MOYq6hCIzxieQGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
