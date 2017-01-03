@@ -219,8 +219,8 @@ public class MainActivity extends AppCompatActivity
         item.setChecked(item.isChecked());
 
         switch (item.getItemId()) {
-            case R.id.menu_option_sortby_name:
-            case R.id.menu_option_sortby_no:
+            //case R.id.menu_option_sortby_name:
+            //case R.id.menu_option_sortby_no:
             default:
                 return super.onOptionsItemSelected(item);
         }
